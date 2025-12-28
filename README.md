@@ -35,14 +35,6 @@ My passion lies in bridging the gap between perception algorithms and real-world
 
 ---
 
-### 🚀 Featured Projects
-| **Object Detection (YOLO)** | **Robotics Sim (Webots)** |
-|:---:|:---:|
-| <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5eXhmb3J6ZzF4aWZxcG94M3hpZ3F6aWZxcG94M3hpZ3F6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L3csJ9F3V5L4c/giphy.gif" width="100%" alt="Placeholder GIF 1" /> | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHszZ3M0aWZxcG94M3hpZ3F6aWZxcG94M3hpZ3F6aWZxcG94M3hpZ3F6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dBTKgXebkkqY0/giphy.gif" width="100%" alt="Placeholder GIF 2" /> |
-| *Real-time Detection* | *Autonomous Navigation* |
-
----
-
 ### 📫 Let's Connect
 <p align="left">
   <a href="https://linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
