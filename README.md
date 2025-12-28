@@ -37,29 +37,6 @@ I am a Robotics enthusiast specializing in **Computer Vision** and **Deep Learni
 
 ---
 
-### 🚀 Featured Projects in Action
-
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <a href="#">
-        <img src="https://placehold.co/600x400/1F1F1F/FFF?text=Demo+Object+Detection\n(Upload+GIF+Here)" width="100%" alt="Object Detection Demo" />
-      </a>
-      <br/>
-      <b>Real-time Object Detection (YOLOv8)</b>
-    </td>
-    <td width="50%" align="center">
-      <a href="#">
-        <img src="https://placehold.co/600x400/1F1F1F/FFF?text=Demo+ROS2+Webots\n(Upload+GIF+Here)" width="100%" alt="Robotics Simulation Demo" />
-      </a>
-      <br/>
-      <b>ROS2 Navigation in Webots</b>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 📊 Coding Activity & Statistics
 
 <div align="center">
